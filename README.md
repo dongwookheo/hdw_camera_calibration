@@ -6,12 +6,17 @@
 - 캘리브레이션 결과 부분에 체커보드 패턴 검출 및 왜곡 보정 결과, 카메라 파라미터, 카메라 포즈 시각화 결과를 시각화하였습니다.
 
 ## Results example
-- 체커보드 패턴 검출 결과
+- 체커보드 패턴 검출 결과  
+
     ![Checkerboard Detection](./resources/result1.png)
-- 결과 출력
+
+- 결과 출력  
+
     ![Result](./resources/result2.png)
     ![Result](./resources/result3.png)
-- 카메라 포즈 시각화
+
+- 카메라 포즈 시각화  
+
     ![Camera Pose Visualization](./resources/result4.png)
 
 ## Analysis and Discussion
