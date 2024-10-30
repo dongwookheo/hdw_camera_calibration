@@ -64,7 +64,7 @@
     ```
 4. 카메라 포즈 시각화
     ```bash
-    python3 ./visualize_camera_pose.py
+    python3 ./visualization_extrinsic.py.py
     ```
 
 ## TODO
